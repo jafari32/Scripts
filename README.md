@@ -5,3 +5,4 @@ A majority of the scripts ae used for configuration purposes for cloud servers w
 
 The final setup was 4 servers running vulnerable DVWA containers along with jump box and a server running an ELK stack container.
 
+![](diagrams/my-diagram.jpg
